@@ -117,6 +117,10 @@ Netflix
 		_ nflxvideo.net *
 		_ nflxvideo.net xhr
 
+Odoo.com
+	odoo.com *
+		_ 1st-party script
+
 OpenStreetMap
 	openstreetmap.org *
 		_ 1st-party script
